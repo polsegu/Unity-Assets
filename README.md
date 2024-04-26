@@ -1,3 +1,5 @@
+ <p align="right"> <img src="https://komarev.com/ghpvc/?username=polsegu11&label=Profile%20views&color=0e75b6&style=flat" alt="polsegu11" /> </p>
+
 # Unity Assets
 > [!NOTE]
 > This repository serves as a personal educational project and is not intended for commercial or economic purposes. All content within this repository is solely for educational use and does not represent financial advice or strategies.
